@@ -1,6 +1,6 @@
-project: overfitting/HOMECREDIT
+project: overfitting/home-credit
 
-name: home-credit-default-risk
+name: home-credit
 tags: [solution-1]
 
 metric:
