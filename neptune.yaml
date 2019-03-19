@@ -1,6 +1,6 @@
-project: overfitting/home-credit
+project: overfitting/home
 
-name: home-credit
+name: HOM
 tags: [solution-1]
 
 metric:
