@@ -1,6 +1,6 @@
-project: overfitting/san
+project: overfitting/HOMECREDIT
 
-name: san1
+name: home-credit-default-risk
 tags: [solution-1]
 
 metric:
