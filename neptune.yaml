@@ -19,10 +19,10 @@ exclude:
 
 parameters:
 # Data
-  train_filepath:             ../input/application_train.csv
-  test_filepath:              ../input/application_test.csv
-  sample_submission_filepath: ../input/sample_submission.csv
-  experiment_dir:             /kaggle/working/
+  train_filepath:             /content/application_train.csv
+  test_filepath:              /content/application_test.csv
+  sample_submission_filepath: /content/sample_submission.csv
+  experiment_dir:             /content/
 
 # Validation
   target_bins: 100
