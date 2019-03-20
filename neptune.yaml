@@ -1,6 +1,6 @@
-project: dongjunn/home-credit
+project: dongjunn/SAN
 
-name: home-credit-default-risk
+name: sandbox
 tags: [solution-1]
 
 metric:
